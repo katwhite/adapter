@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "Eva", "Phone": "666", "Sex": "MAN"
+  },
+  {
+    "Name": "Danil", "Phone": "12", "Sex": "WOMAN"
+  },
+  {
+    "Name": "Kat", "Phone": "838547", "Sex": "UNKNOWN"
+  },
+  {
+    "Name": "Dan", "Phone": "838995", "Sex": "MAN"
+  },
+  {
+    "Name": "Cara", "Phone": "88005553535", "Sex": "WOMAN"
+  },
+  {
+    "Name": "Adam", "Phone": "666666", "Sex": "UNKNOWN"
+  },
+  {
+    "Name": "Sara", "Phone": "66666666", "Sex": "MAN"
+  },
+  {
+    "Name": "Mara", "Phone": "66666", "Sex": "WOMAN"
+  },
+  {
+    "Name": "Sheera", "Phone": "6666", "Sex": "MAN"
+  }
+
+]
